@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align = "center"> Oi 😄, meu nome é Alexandra! </h1>
+<h3 align = "center"> Sou desenvolvedora front-end júnior e designer digital </h3>
 
-<!--
-**aleseect/aleseect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo ** Java e React **
 
-Here are some ideas to get you started:
+- 👨‍💻 Alguns dos meus projetos estão no behance [https://www.behance.net/ctrl_ale](https://www.behance.net/ctrl_ale)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Para me encontrar é só mandar um e -mail para **aleseect@gmail.com**
+
+- ⚡ Sou fã do bowie, apaixonada por dinossauros ** e Star Wars! **
+
+<h3 align = "left"> Conecte-se a mim: </h3>
+<p align = "left">
+<a href="https://linkedin.com/in/ale-santos" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm /simple-icons@3.0.1/icons/linkedin.svg "alt =" ale-santos "height =" 30 "width =" 40 "/> </a>
+<a href="https://instagram.com/alesantos.cl" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0 .1 / icons / instagram.svg "alt =" alesantos.cl "height =" 30 "width =" 40 "/> </a>
+<a href =" https://www.behance.net/ctrl_ale "target = "em branco"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt = "ctrl_ale" height = "30 "width =" 40 "/> </a>
+<a href="https://discord.gg/Alexandra Santos#8628" target="blank"> <img align =" center "src =" https: // cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg "alt =" Alexandra Santos # 8628 "height ="30 "width =" 40 "/> </a>
+</p>
+
+<h3 align =" left "> Idiomas e ferramentas: </h3>
+<p align = "left"> <a href="https://babeljs.io/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/babeljs/babeljs-icon .svg "alt =" babel "width =" 40 "height =" 40 "/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src = "https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt = "css3" width = "40" height = "40" /> </ a> <a href="https://www.figma.com/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt = "figma" largura = "40" altura = "40" /></a> <a href="https://www.w3.org/html/" target="_blank"> <img src = "https://devicons.github.io/devicon/devicon.git/icons /html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> </a> <a href =" https://www.adobe.com/in/products /illustrator.html "target =" _ blank "> <img src =" https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg "alt =" illustrator "width =" 40 "height =" 40 "/> </a> <a href="https://www.java.com" target="_blank"> <img src =" https://devicons.github.io/devicon/devicon.git/icons / java / java-original-wordmark.svg "alt =" java "width =" 40 "height =" 40 "/> </a> <a href =" https://developer.mozilla.org/en-US/docs/Web/JavaScript "target = "_blank"> <img src = "https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt = "javascript" width = "40" height = "40" /> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg "alt =" jekyll "width =" 40 "height =" 40 "/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src =" https : // devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> </a> <a href =" https: //www.photoshop.com/en "target =" _ blank "> <img src =" https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg "alt =" photoshop "width =" 40 "height =" 40 "/> </a> <a href="https://www.php.net" target="_blank"> <img src =" https: // devicons. github.io/devicon/devicon.git/icons/php/php-original.svg "alt =" php "width =" 40 "height =" 40 "/> </a> <a href =" https: // reactjs.org/ "target =" _ blank "><img src = "https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt = "react" width = "40" height = "40" /> </a> <a href="https://sass-lang.com" target="_blank"> <img src = "https://devicons.github.io/devicon/devicon.git/icons/sass/ sass-original.svg "alt =" sass "width =" 40 "height =" 40 "/> </a> <a href =" https://www.adobe.com/products/xd.html "target = "_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt = "xd" width = "40" height = "40" /> </a> </ p>io / devicon / devicon.git / icons / react / react-original-wordmark.svg "alt =" react "width =" 40 "height =" 40 "/> </a> <a href =" https: // sass-lang.com "target =" _ blank "> <img src =" https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg "alt =" sass "width = "40" height = "40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src = "https: // cdn.worldvectorlogo.com/logos/adobe-xd.svg "alt =" xd "width =" 40 "height =" 40 "/> </a> </p>io / devicon / devicon.git / icons / react / react-original-wordmark.svg "alt =" react "width =" 40 "height =" 40 "/> </a> <a href =" https: // sass-lang.com "target =" _ blank "> <img src =" https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg "alt =" sass "width = "40" height = "40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src = "https: // cdn.worldvectorlogo.com/logos/adobe-xd.svg "alt =" xd "width =" 40 "height =" 40 "/> </a> </p>40 "/> </a> <a href="https://sass-lang.com" target="_blank"> <img src =" https://devicons.github.io/devicon/devicon.git/ icons / sass / sass-original.svg "alt =" sass "width =" 40 "height =" 40 "/> </a> <a href =" https://www.adobe.com/products/xd. html "target =" _ blank "> <img src =" https://cdn.worldvectorlogo.com/logos/adobe-xd.svg "alt =" xd "width =" 40 "height =" 40 "/> </ a> </p>40 "/> </a> <a href="https://sass-lang.com" target="_blank"> <img src =" https://devicons.github.io/devicon/devicon.git/ icons / sass / sass-original.svg "alt =" sass "width =" 40 "height =" 40 "/> </a> <a href =" https://www.adobe.com/products/xd. html "target =" _ blank "> <img src =" https://cdn.worldvectorlogo.com/logos/adobe-xd.svg "alt =" xd "width =" 40 "height =" 40 "/> </ a> </p>alt = "sass" width = "40" height = "40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt = "xd" width = "40" height = "40" /> </a> </p>alt = "sass" width = "40" height = "40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt = "xd" width = "40" height = "40" /> </a> </p>
+
+<p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=aleseect&" alt = "aleseect" /> </p>
+
+
